@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/haufe/static/css/main.1140b31a.chunk.css",
+    "main.js": "/haufe/static/js/main.dd9e1e02.chunk.js",
+    "main.js.map": "/haufe/static/js/main.dd9e1e02.chunk.js.map",
+    "runtime-main.js": "/haufe/static/js/runtime-main.49a4e5a4.js",
+    "runtime-main.js.map": "/haufe/static/js/runtime-main.49a4e5a4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/haufe/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b209f327.chunk.js": "/haufe/static/js/2.b209f327.chunk.js",
+    "static/js/2.b209f327.chunk.js.map": "/haufe/static/js/2.b209f327.chunk.js.map",
+    "index.html": "/haufe/index.html",
+    "precache-manifest.8b537d4085daf28e73f21dc061b7bf0b.js": "/haufe/precache-manifest.8b537d4085daf28e73f21dc061b7bf0b.js",
+    "service-worker.js": "/haufe/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/haufe/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1140b31a.chunk.css.map": "/haufe/static/css/main.1140b31a.chunk.css.map",
+    "static/js/2.b209f327.chunk.js.LICENSE.txt": "/haufe/static/js/2.b209f327.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/haufe/static/media/CV.a155a92a.pdf",
+    "static/media/StanCasa1.jpg": "/haufe/static/media/StanCasa1.804e3020.jpg",
+    "static/media/StanCasa2.jpg": "/haufe/static/media/StanCasa2.7becf562.jpg",
+    "static/media/myPhoto.jpg": "/haufe/static/media/myPhoto.90901f11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a4e5a4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b209f327.chunk.js",
+    "static/css/main.1140b31a.chunk.css",
+    "static/js/main.dd9e1e02.chunk.js"
+  ]
+}
